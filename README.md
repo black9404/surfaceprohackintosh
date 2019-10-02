@@ -14,5 +14,6 @@ HFSPlus.efi (needed for detection of HFS+ formatted drives)
 
 -WhatEverGreen
 
+### Credits
 
 
